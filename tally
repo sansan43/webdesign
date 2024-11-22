@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>M S office Profession
+</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+font-family: Arial, Helvetica, sans-serif;
+background-color:#960eb1;}
+
+.header1 {
+            padding: 40px;
+            text-align: center;
+            background: #3280f5;
+            justify-self: 4px solid;
+            background-size: 16px;
+
+
+
+
+
+            color: white;
+          
+            background-attachment: fixed;
+    
+            float: inline-end;
+        
+            }
+            .header1 h1 {
+            font-size: 30px;
+         
+            font-family: bankgothic md bt;
+            background-color: #052ba8;
+           border-bottom: 1px solid;
+          border-spacing: 10px;
+         border-radius: 15px;
+         border-block-start-width: 10px;
+         background-size: 10px;
+         
+        }
+
+            .header1 p 
+            
+            {
+           text-align: justify;
+           color: white;
+           font-size: 20px;
+            } 
+      
+
+
+            img {
+
+
+                width: auto;
+                height: auto;
+                box-sizing: border-box;
+            
+                max-width: 100%;
+                vertical-align: bottom;
+            }
+
+
+           #fullstack2{
+
+         font-family: bankgothic md bt;
+
+           }
+
+        #ved
+           {
+
+      
+          width: 100%;
+          height:auto
+
+           }
+
+
+#ms
+{
+
+
+    font-family: Arial, Helvetica, sans-serif;
+    float: inline-start;
+ 
+}
+
+
+#Ms1
+{
+
+    color: rgb(226, 226, 226);
+    font-size: 25px;
+
+    list-style-position: none;
+    background-color:rgb(45, 103, 228);
+    background-size: 10px;
+    list-style-type: disc;
+        }
+
+
+
+ 
+
+
+
+
+</style>
+</head>
+<body>
+
+
+ 
+
+        
+ 
+        
+        
+              
+
+
+
+        
+         <div class="header1">
+        <a href="index.html" > <p>Back</p> </a>
+        <h1>Tally Prime With Taxation(GST)</h1> 
+        
+
+           <p> Business automation is one of the most prioritized processes when an entrepreneur decides to
+            enter the market. Not only does automation saves precious time but also improves business
+            efficiency and operability. The sheer convenience of having all your business data in one place,
+            readily available, ability to manage your payables, receivables, getting control over your stock and
+            therefore being able to strengthen your relationships with customers and suppliers is a great asset
+            to have. However, most automation tools that exist today come with varying levels of complexities
+            and create inhibitions in your mind. Often, one chooses to automate out of compulsion rather than
+            to harness the true value of automation</p>
+                
+                   
+            <section id ="png">
+            
+
+        
+                <img src="image/tally.jpg" style="width:500px;height:300px;"  >
+                <br><br> 
+                
+                 <div class="video-container">
+
+
+                <video autoplay muted loop  height="300" height="250" style="width: 400px; height: 300px">
+
+                    <source src="vedio/VEDIO2.mp4" type="video/mp4" >
+               
+                </video>
+                
+                </div>
+                <img src="image/tax2.jpg" style="width:500px;height:300px;"  >  <br> <br>
+                <img src="image/Gst1.jpg" style="width:500px;height:300px;"  >  
+
+
+                                      
+            
+            </section>
+              
+        <h1> BILLING STOCK GST TDS </h1>
+        
+
+    </section>
+    
+
+
+           <section id ="fullstack2">
+
+         
+            <img src="image/Tallycontent1.jpg" alt="img1" width="200" height="600" style="width:500px;height:600px;"  >
+
+     </section>
+     <br>
+
+
+
+  
+
+         </div>
+    
+
+      
+</body>
+</html> 
